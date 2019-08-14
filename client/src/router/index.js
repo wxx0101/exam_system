@@ -48,6 +48,13 @@ const router = new Router({
             flag: true
           }
         },
+        // {
+        //   path: "commit",
+        //   component: () => import("../views/home/components/commit.vue"),
+        //   meta: {
+        //     flag: false
+        //   }
+        // },
         {
           path: "examList",
           component: () => import("../views/home/child/examList.vue"),

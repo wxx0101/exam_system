@@ -52,7 +52,7 @@ export default {
   }
   .big {
     width: 94%;
-    background: #F0F2F5;
+    background: #f0f2f5;
     margin: 3%;
     border-radius: 10px;
     display: flex;

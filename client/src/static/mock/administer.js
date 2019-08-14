@@ -26,7 +26,11 @@ export default [
             {
                 name: "用户展示",
                 url: "/home/showUser"
-            }
+            },
+            // {
+            //     name: "添加用户",
+            //     url: "/home/commit"
+            // }
         ]
     },
     {
